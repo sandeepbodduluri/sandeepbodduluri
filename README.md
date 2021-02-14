@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepbodduluri
 - 👀 I’m interested in medical image processing and machine learning
-- 🌱 I’m currently get a sense how neural networks work and how they can be applied to clinical problems
+- 🌱 I’m trying to understand how neural networks work and how they can be applied to clinical problems
 - 💞️ I’m looking to collaborate on anything related to image processing, computer vision, and deep neural networks
 - 📫 How to reach me - sandeepboddu@gmail.com
 
